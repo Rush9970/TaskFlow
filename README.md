@@ -28,6 +28,9 @@ A beautiful, responsive, and highly interactive **Todo List** application with s
 - Clear feedback on every user interaction
 
 ---
+![image](https://github.com/user-attachments/assets/e488aa2e-b822-41e9-81c0-502063c4d0eb)
+![image](https://github.com/user-attachments/assets/08de6bd1-386d-4906-940b-a66c7563788b)
+
 
 ## 🧱 Tech Stack
 
